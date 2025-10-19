@@ -42,5 +42,12 @@ Copiamos la dirección del contrato y lo ponemos en el campo
 
 ![This is an alt text.](/image/MeSa.png "Direccion.")
 
-
+## Funciones
+```
+Approve: aprueba una address(billetera) la cual podra manejar una cantidad de tokens.
+Mint: Crea nuevos tokens y se los da a la direccion dada.
+Transfer: Transfiere una cantidad de tokens a la direccion dada.
+TransferFrom: transfiere una cantidad "z" de una billetera "x" (from) a una billetera "y" (to).
+transferOwnership: Transfiere la propiedad del contrato a otra direccion de billetera. 
+Allowance: Pregunta cuantos tokens de tu propiedad puede manejar ya billetera "x" (Spender)
 
