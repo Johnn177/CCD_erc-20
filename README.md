@@ -24,6 +24,8 @@ A continuación nos saldra la siguiente pagina en la cual podremos activar exten
 ## Creación del token
 Seleccionaremos las opciones de "mintable" y "ownable", cambiaremos el nombre del Token y su simbolo, ademas tendremos un premint de 1000.
 
+![This is an alt text.](/image/CreacionTokenOZ.png "Seleccion de Opciones.")
+
 Creamos el archivo "CCDToken.sol" en Remix IDE y copiamos el codigo generado por OpenZeppelin.
 
 Compilamos el contrato inteligente y los deployamos en la testnet de prueba Sepolia.
