@@ -28,6 +28,19 @@ Seleccionaremos las opciones de "mintable" y "ownable", cambiaremos el nombre de
 
 Creamos el archivo "CCDToken.sol" en Remix IDE y copiamos el codigo generado por OpenZeppelin.
 
+![This is an alt text.](/image/CCDRemix.png "Creacion.")
+
 Compilamos el contrato inteligente y los deployamos en la testnet de prueba Sepolia.
+
+![This is an alt text.](/image/Deploy.png "Compilacion y Deploy.")
+
+Abrimos la billetera de Metamask y seleccionamos tokens, tres puntos e importar tokens
+
+![This is an alt text.](/image/MeImT.png "Importación.")
+
+Copiamos la dirección del contrato y lo ponemos en el campo
+
+![This is an alt text.](/image/MeSa.png "Direccion.")
+
 
 
